@@ -2,7 +2,7 @@
 
 ## Overview
 
-AlphaForge is a full-stack algorithmic trading backtesting platform designed to simulate and evaluate trading strategies using historical market data. It combines a high-performance backtesting engine with an immersive, interactive frontend to deliver a realistic trading analysis experience.
+AlgoBacktest Terminal is a full-stack algorithmic trading backtesting platform designed to simulate and evaluate trading strategies using historical market data. It combines a high-performance backtesting engine with an immersive, interactive frontend to deliver a realistic trading analysis experience.
 
 The platform enables users to configure strategies, run simulations, and analyze results through dynamic charts, performance metrics, and detailed trade logs.
 
