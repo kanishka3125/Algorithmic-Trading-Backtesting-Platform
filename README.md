@@ -152,7 +152,6 @@ npm start
 ### Live Demo Link 
 [🚀 Live Demo](https://algorithmic-trading-backtesting-pla.vercel.app/)
 
-
 ## Team Structure
 
 * Backend and API development
