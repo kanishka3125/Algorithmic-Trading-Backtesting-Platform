@@ -150,7 +150,8 @@ npm start
 ---
 
 ### Live Demo Link 
-[🚀 Live Demo]([https://your-demo-link.com](https://algorithmic-trading-backtesting-pla.vercel.app/))
+[🚀 Live Demo](https://algorithmic-trading-backtesting-pla.vercel.app/)
+
 
 ## Team Structure
 
